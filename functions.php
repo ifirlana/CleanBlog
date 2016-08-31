@@ -36,4 +36,17 @@ require_once("parts/add_metabox_intro.php");
 /*========================================================*
 * post type
 * ========================================================*/
-require_once("parts/add_post_type_banner_intro.php");
+//require_once("parts/posttype/banner_intro.php");
+//require_once("parts/posttype/portfolio.php");
+
+
+/*========================================================*
+* Widget
+* ========================================================*/
+//require_once("parts/widget/portfolio_cardview.php");
+
+
+/*========================================================*
+* Shortcode
+* ========================================================*/
+//require_once("parts/shortcode/bartag.php");

@@ -1,0 +1,850 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"A",
+				"AuthorizationCode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"col",
+				"coloum"
+			],
+			[
+				"sc",
+				"scope"
+			],
+			[
+				"se",
+				"select	Tag"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"con",
+				"confMap"
+			],
+			[
+				"mar",
+				"Marker"
+			],
+			[
+				"set",
+				"setCenter"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"layou",
+				"layout_string"
+			],
+			[
+				"check",
+				"check"
+			],
+			[
+				"c",
+				"currentcy"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"re",
+				"return_string"
+			],
+			[
+				"get_",
+				"get_mod_attr"
+			],
+			[
+				"get",
+				"get_banner"
+			],
+			[
+				"temp",
+				"temp_image"
+			],
+			[
+				"te",
+				"temp_image"
+			],
+			[
+				"the_pos",
+				"get_the_post_thumbnail"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"eho",
+				"echo"
+			],
+			[
+				"tem",
+				"terms"
+			],
+			[
+				"ce",
+				"clear"
+			],
+			[
+				"customize",
+				"customize_register"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"them",
+				"mekar_themes"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"select",
+				"Select"
+			],
+			[
+				"hav",
+				"have_posts"
+			],
+			[
+				"register",
+				"register_post_type"
+			],
+			[
+				"requi",
+				"require_once"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"get_page",
+				"get_page_link"
+			],
+			[
+				"loan",
+				"loan_size"
+			],
+			[
+				"loa",
+				"loan_size"
+			],
+			[
+				"mi",
+				"million"
+			],
+			[
+				"meakr",
+				"mekar_theme"
+			],
+			[
+				"mekar",
+				"mekar_theme"
+			],
+			[
+				"widgetmekarformpinjaman_form_bu",
+				"widgetmekarformpinjaman_form_business_email"
+			],
+			[
+				"mater",
+				"materialize"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"widgetmekarformpinjaman_",
+				"widgetmekarformpinjaman_status_form"
+			],
+			[
+				"mess",
+				"messagePostBPM"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"theme",
+				"theme_mod"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"WP_",
+				"WP_Customize_Color_Control"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Applications/MAMP/htdocs/Integration/index.php",
+			"settings":
+			{
+				"buffer_size": 13577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/Integration/MekarClass/MekarSmsgateway.php",
+			"settings":
+			{
+				"buffer_size": 1577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/Integration/Dockerfile",
+			"settings":
+			{
+				"buffer_size": 2286,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/Integration",
+		"/Applications/MAMP/htdocs/Integration/docker"
+	],
+	"file_history":
+	[
+		"/Users/ikhlasfirlana/Documents/git/Integration/index.php",
+		"/Users/ikhlasfirlana/Documents/git/Integration/MekarClass/MekarSmsgateway.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/home.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/parts/posttype/banner_intro.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/parts/add_post_type_banner_intro.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_post_type_employee.php",
+		"/Applications/MAMP/htdocs/widget_wordpress/scripts/angularjs.min.js",
+		"/Applications/MAMP/htdocs/wordpress/wp-config.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarnewshome.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-config.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/news.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarstaticallandscape.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarsubmenuhomebutton.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components/_custom_element.scss",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/add_shortcode_mekar_layout_function.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/layout_mekar.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components/_grid.scss",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/woocommerce.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/templates/intro.php",
+		"/Users/ikhlasfirlana/Documents/git/BPM/Loan-Origination/src/main/webapp/forms/o1-agent-customer-data-1.html",
+		"/Users/ikhlasfirlana/Documents/git/BPM/Loan-Disbursement-Bulk/src/main/webapp/forms/loan-disbursement-bulk-result.html",
+		"/Applications/MAMP/htdocs/google-maps/index.html",
+		"/Users/ikhlasfirlana/Documents/git/BPM/UI/camunda-bpm-webapp/webapp/Gruntfile.js",
+		"/Users/ikhlasfirlana/Documents/git/BPM/camunda-webapp-jboss-7.4.0/WebContent/app/tasklist/styles/restyles.css",
+		"/Applications/MAMP/htdocs/leaflet/index.html",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/functions.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/style.css",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/home.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/parts/add_metabox_intro.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/templates/content-search.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/templates/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/templates/content.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/templates/header.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/templates/sidebar.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/templates/content-single.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/base.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/meta_box_post_type_mekar_theme.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/meta_box_post_page_mekar_theme.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/templates/footer.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/page.php",
+		"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog/assets/manifest.json",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/templates/content-single.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components/_custom_layout.scss",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarnewscontent.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components/_font_size.scss",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/main.scss",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/widget/news.scss",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/layout_implement.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/manifest.json",
+		"/Users/ikhlasfirlana/Documents/git/Web/mekarwp-entrypoint.sh",
+		"/Users/ikhlasfirlana/Documents/git/Web/resources/nginx.mekar.id.conf",
+		"/Users/ikhlasfirlana/Documents/git/Web/Dockerfile",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/normal.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/tinymce_accordion.php",
+		"/Users/ikhlasfirlana/Documents/camunda_demolition/camunda-bpm-webapp-master/pom.xml",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/layout-shortcode.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/.gitignore",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/materialize.min.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/facebook.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/mekarloancalculation.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/twitter.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/parts/meta_box_banner.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/parts/register_widget_widgetcleanbloghome.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/part/register_widget_widgetcleanbloghome.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/part/register_sidebar.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_post_type_statistical.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/part/meta_box_banner.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/part/register_post_type_banner.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/lib/customizer.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarloancalculation.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/CleanBlog/.gitignore",
+		"/Users/ikhlasfirlana/Documents/git/androidOrderMenu/README.md",
+		"/Users/ikhlasfirlana/Documents/git/androidOrderMenu/.gitignore",
+		"/Applications/XAMPP/xamppfiles/htdocs/mekar.id/wp-content/themes/unicon/page-question-webagent.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/agentquiz.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekaragentquiz.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components/_banner_img.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/templates/content-page.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/templates/home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/base-home.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/templates/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/templates/page-header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components/_global.scss",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarstatical.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarformpinjaman.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/lib/wrapper.php",
+		"/Applications/wordpress-4.5.2-1/apps/wordpress/htdocs/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/cleanblog/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/assets/scripts/bootstrap.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/assets/scripts/clean-blog.min.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/assets/manifest.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/base.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/templates/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/lib/setup.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/assets/scripts/jquery.min.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/lib/setup.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarloancalculationcontent.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/lib/extras.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/lib/assets.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/assets/styles/main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/assets/styles/external/font-awesome.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/cleanbootstrap/assets/styles/external/cleanblog.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/cleanblog/css/clean-blog.min.css",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarfaq.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarnews.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/templates/banner.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/vacancies.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/faq.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarstayconnected.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_post_type_testimoni.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_post_type_faq.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarformloancal.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_post_type_vacancies.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components/_custom_color.scss",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/add_shortcode_mekar_layout_button.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/register_widget_widgetmekarformpinjamanlanding.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/initial.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/iframe-mekar.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/add_shortcode_mekar_iframeyoutube_function.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/googlemap_tinymce.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/scripts/recent-posts.js",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/add_shortcode_mekar_recentpost_function.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/add_shortcode_mekar_video_responsive.php",
+		"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/parts/add_shortcode_mekar_googlemap_function.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/BPM/UI/camunda-commons-ui/lib",
+			"/Users/ikhlasfirlana/Documents/git/BPM/UI",
+			"/Users/ikhlasfirlana/Documents/git/BPM/camunda-webapp-jboss-7.4.0/WebContent/plugin",
+			"/Applications/MAMP/htdocs/wordpress/wp-content/themes/CleanBlog",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/themes/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes",
+			"/Users/ikhlasfirlana/Documents/git/Web/themes/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/themes/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress/wp-content/themes/mekar-ori-theme/assets/styles/components",
+			"/Users/ikhlasfirlana/Documents/git/Web/wordpress",
+			"/Users/ikhlasfirlana/Documents/git/Web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cp",
+			"getHeader",
+			"manipulateHeader",
+			"proceedSmsgateway",
+			"align=\"center\"",
+			"menu",
+			".menu",
+			"coloum=",
+			"coloum",
+			"gutter-width",
+			"$gutter-width",
+			"\"\";",
+			"= $instance['widgetmekarsubmenuhomebutton_text_smes_fontsize'];",
+			"$ =",
+			"80",
+			"100",
+			"value=\"",
+			"value",
+			"name=\"",
+			"name=",
+			"name",
+			"disbursements",
+			"formDisabledClient",
+			"{{",
+			"ng-disabled=\"{{formDisabledBusiness}}\"",
+			"ng-disabled=\"{{formDisabledClient}}\"",
+			"disabled=\"{{",
+			"ng-",
+			"variableValue",
+			";\n			$scope.dob						= ",
+			"= variableManager.variableValue('fullName');\n			",
+			"\n			",
+			"fullName",
+			"date",
+			"datepicker",
+			"formDisabled",
+			"btn-primary",
+			"{",
+			"mekar_theme",
+			"_x( ",
+			".next",
+			"pager",
+			"next",
+			"prev",
+			"layout-header {",
+			"layout-header",
+			"mekar_meta_box_callback_save",
+			"$font-size-h2",
+			"$font-size-h1",
+			"$font-size-8",
+			".content-blog",
+			"layout-header",
+			"layout-container-normal",
+			"layout-container;",
+			"layout-container",
+			"openFunction",
+			"ShowSorry",
+			"btn-banner",
+			"banner",
+			"responsive-img-news",
+			"smes",
+			"the_content_more_link",
+			"rainbow",
+			"line",
+			"vacancies",
+			"widgetmekarstatitcal_text_loansLate",
+			"widgetmekarstatitcalresult_text_loansLate",
+			"layout-container-normal",
+			"-10px",
+			".margin",
+			".margin ",
+			".margin",
+			" margin ",
+			"margin ",
+			"margin",
+			"image-fixed",
+			"echo",
+			"loansLate",
+			"mekar_category_vacancies_init",
+			"mekar_category_testimoni_init",
+			"grey-color",
+			"formtextloan",
+			"widgetmekarformloancal_back_url",
+			"widgetmekarformpinjaman_back_url",
+			"widgetmekarformpinjamanlanding_back_url",
+			"widgetmekarformpinjaman_retrieve",
+			"console",
+			"recent_posts_function",
+			"widgetmekarsubmenuhomebutton_text_smes",
+			"font-style-tipe-8",
+			"title-blog",
+			"mekar_show_widget_banner_meta_box_radio",
+			"mekar_page_banner_meta_box_radio",
+			"mekar_page_navigation_meta_box_banner",
+			"get_the_post_thumbnail_url",
+			"mekar_page_banner_meta_box_radio",
+			"mekar_page_navigation_meta_box_banner",
+			"template",
+			"responsive-img",
+			"business",
+			"busines",
+			"million",
+			"mekar_page_banner_meta_box_radio",
+			"just border",
+			"mekar_show_widget_banner_meta_box_radio",
+			"mekar_page_navigation_meta_box_banner",
+			"get_banner",
+			"mekar_page_navigation_meta_box_banner",
+			"mekar_show_widget_banner_meta_box_radio",
+			"the_post_thumbnail_url",
+			"widgetmekarsubmenuhomebutton_text_title_smes",
+			"widgetmekarsubmenuhomebutton_description_funders",
+			"widgetmekarsubmenuhomebutton_text_subtitle_funders",
+			"widgetmekarsubmenuhomebutton_text_subtitle_agent",
+			"widgetmekarformpinjamanlanding_check_campaign",
+			"checked",
+			"widgetmekarformpinjamanlanding_check_partner",
+			"widgetmekarformpinjamanlanding_retrieve",
+			"client_reg_id",
+			"client_id",
+			"widgetmekarformpinjamanlanding_status_form",
+			"widgetmekarformpinjamanlanding_thank_you",
+			"widgetmekarformpinjamanlanding_status_form",
+			"formPostBPM",
+			"WidgetMekarSidebarSearch",
+			"WidgetMekarNewsHome",
+			"customize_register_mekar_theme",
+			"WidgetMekarFormPinjamanLanding"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"dev.mekar.id"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Applications/MAMP/htdocs/Integration"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Applications/MAMP/htdocs/Integration/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3323,
+								3323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 731.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Applications/MAMP/htdocs/Integration/MekarClass/MekarSmsgateway.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Applications/MAMP/htdocs/Integration/Dockerfile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2026,
+								2029
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 730.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Dockerfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 368.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
