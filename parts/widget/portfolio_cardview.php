@@ -17,7 +17,7 @@ class PortfolioCardViewCleanblogWidget extends WP_Widget {
         }    
 
       if(empty($portfoliocardviewcleanblogwidget_post_type)){
-        $portfoliocardviewcleanblogwidget_post_type = "portfolio";
+        $portfoliocardviewcleanblogwidget_post_type = "portfolio-data";
         
         }    
 
@@ -28,21 +28,27 @@ class PortfolioCardViewCleanblogWidget extends WP_Widget {
         }    
       ?>
       <?php 
-          global $posts;
-          $args=array(
-              'posts_per_page'   => $portfoliocardviewcleanblogwidget_posts_per_page,
-              'post_type'      => $portfoliocardviewcleanblogwidget_post_type,
-              'category'      => $portfoliocardviewcleanblogwidget_category_name,
-              'post_status'    => 'publish',
-              'orderby'          => 'date',
-              'order'            => 'DESC',
+          global $post;
+          $args = array(
+            'post_type' => 'portfolio-data',
+            'posts_per_page' => $portfoliocardviewcleanblogwidget_posts_per_page);
+
+          if(!empty($portfoliocardviewcleanblogwidget_category_name)){
+
+              //$args['category'] = $portfoliocardviewcleanblogwidget_category_name;
+              $args['tax_query'] = array(
+              array(
+                'taxonomy' => 'cat_portfoliodata',
+                'field' => 'slug',
+                'terms' => $portfoliocardviewcleanblogwidget_category_name)
             );
+          }
           $posts = get_posts( $args );
         ?>
       <?php if($portfoliocardviewcleanblogwidget_title):?>
         <h3><?php echo $portfoliocardviewcleanblogwidget_title;?></h3><hr />
         <?php endif;?>
-      <div class="row">
+      <div class="row" style="margin-bottom: 60px;">
         <?php 
           if ($posts) : 
             foreach ($posts as $key => $value) {
@@ -128,7 +134,7 @@ class PortfolioCardViewCleanblogWidget extends WP_Widget {
         <input type="text" id="<?php echo $this->get_field_id( 'portfoliocardviewcleanblogwidget_post_type' ); ?>" name="<?php echo $this->get_field_name( 'portfoliocardviewcleanblogwidget_post_type' ); ?>" value="<?php echo $instance['portfoliocardviewcleanblogwidget_post_type']; ?>" style="width:100%;" placeholder="portfolio" />
       </p>
       <p>
-        <label for="<?php echo $this->get_field_id( 'portfoliocardviewcleanblogwidget_category_name' ); ?>"><?php echo 'category name :'; ?></label>
+        <label for="<?php echo $this->get_field_id( 'portfoliocardviewcleanblogwidget_category_name' ); ?>"><?php echo 'category slug :'; ?></label>
         <input type="text" id="<?php echo $this->get_field_id( 'portfoliocardviewcleanblogwidget_category_name' ); ?>" name="<?php echo $this->get_field_name( 'portfoliocardviewcleanblogwidget_category_name' ); ?>" value="<?php echo $instance['portfoliocardviewcleanblogwidget_category_name']; ?>" style="width:100%;" placeholder="*show all" />
       </p>
       <p>

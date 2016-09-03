@@ -32,7 +32,7 @@ function codex_portfolio_cleanblog_init() {
     'show_ui'            => true,
     'show_in_menu'       => true,
     'query_var'          => true,
-    'rewrite'            => array( 'slug' => 'portfolio' ),
+    'rewrite'            => array( 'slug' => 'portfolio-data' ),
     'capability_type'    => 'post',
     'has_archive'        => true,
     'hierarchical'       => false,
@@ -40,13 +40,13 @@ function codex_portfolio_cleanblog_init() {
     'supports'           => array( 'title', 'editor', 'author', 'thumbnail', 'excerpt', 'comments' ),
   );
 
-  register_post_type( 'portfolio', $args );
+  register_post_type( 'portfolio-data', $args );
 }
  function portfolio_category_cleanblog_init() {
     // create a new taxonomy
     register_taxonomy(
-        'category_portfolio_type',
-        'portfolio',
+        'cat_portfoliodata',
+        'portfolio-data',
         array(
             'labels' => array(
                 'name' => 'Portfolio type ',
