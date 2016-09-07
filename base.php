@@ -17,10 +17,11 @@ use Roots\Sage\Wrapper;
     <?php
       do_action('get_header');
       get_template_part('templates/header');
+      get_template_part('templates/intro');
     ?>
     <div class="wrap container" role="document">
       <div class="content row">
-        <main class="main">
+        <main>
           <?php include Wrapper\template_path(); ?>
         </main><!-- /.main -->
       </div><!-- /.content -->

@@ -26,3 +26,27 @@ foreach ($sage_includes as $file) {
   require_once $filepath;
 }
 unset($file, $filepath);
+
+/*========================================================*
+* metabox
+* ========================================================*/
+require_once("parts/add_metabox_intro.php");
+
+
+/*========================================================*
+* post type
+* ========================================================*/
+require_once("parts/posttype/banner_intro.php");
+require_once("parts/posttype/portfolio.php");
+
+
+/*========================================================*
+* Widget
+* ========================================================*/
+require_once("parts/widget/portfolio_cardview.php");
+
+
+/*========================================================*
+* Shortcode
+* ========================================================*/
+//require_once("parts/shortcode/bartag.php");
