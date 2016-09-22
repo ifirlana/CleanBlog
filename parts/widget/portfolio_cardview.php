@@ -61,9 +61,10 @@ class PortfolioCardViewCleanblogWidget extends WP_Widget {
               
               endif;
               ?>
-        <div class="<?php echo $portfoliocardviewcleanblogwidget_col;?>">
+        <div class="<?php echo $portfoliocardviewcleanblogwidget_col;?>" style="margin-bottom: 20px;">
           <img class="img-responsive" data-toggle="modal" data-target="#myModalurl_<?php echo $value->ID;?>img" src="<?php echo $url; ?>" style="cursor: pointer;" />
-          <h4 data-toggle="modal" data-target="#myModalurl_<?php echo $value->ID;?>content" style="cursor: pointer;"><?php echo $value->post_title;?></h4>
+          <h4 data-toggle="modal" data-target="#myModalurl_<?php echo $value->ID;?>content" style="cursor: pointer;margin-top: 20px;
+    margin-bottom: 15px;"><?php echo $value->post_title;?></h4>
         </div>
         <div class="modal fade" id="myModalurl_<?php echo $value->ID;?>img" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
           <div class="modal-dialog" role="document">
